@@ -206,13 +206,13 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to the Whitelist! 💜 </h1>
           <div className={styles.description}>
-          Let's kickstart this #100DaysOfWeb3 challenge! 🔥
+          Let us kickstart this #100DaysOfWeb3 challenge! 🔥
           </div>
           <div className={styles.description}>
           Get whitelisted for upcomming projects on Polygon 🦄
           </div>
           <div className={styles.description}>
-          It's free join! 🚀 But do pay the gas-fee yourself ⛽
+          It is free join! 🚀 But do pay the gas-fee yourself ⛽
           </div>
           <div className={styles.description}>
             On the polygon gas will be approx. ~$0.0015 🏆
