@@ -218,7 +218,7 @@ export default function Home() {
             On Polygon gas will be approx. ~$0.0015 🏆
           </div>
           <div className={styles.description}>
-          <a href="https://polygonscan.com/address/0x65e6ac1e7db06c811c7346c19f770dd368493f79#code"> The contracts is verified ✅ Read it yourself 📖 </a>
+          <a href="https://polygonscan.com/address/0x65e6ac1e7db06c811c7346c19f770dd368493f79#code"> The smart contracts is verified ✅ Read it yourself 📖 </a>
           </div>
           
           <div className={styles.description}>
