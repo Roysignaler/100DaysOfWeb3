@@ -215,8 +215,12 @@ export default function Home() {
           It is free join! 🚀 But do pay the gas-fee yourself ⛽
           </div>
           <div className={styles.description}>
-            On the polygon gas will be approx. ~$0.0015 🏆
+            On Polygon gas will be approx. ~$0.0015 🏆
           </div>
+          <div className={styles.description}>
+          <a href="https://polygonscan.com/address/0x65e6ac1e7db06c811c7346c19f770dd368493f79#code"> The contracts is verified ✅ Read it yourself 📖 </a>
+          </div>
+          
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist.
             Only {numberOfWhitlistLeft} spots left. 👀
