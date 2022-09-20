@@ -233,7 +233,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-      <a href="https://twitter.com/Roysignaler"> Made &nbsp;with &nbsp;&#10084; &nbsp;by &nbsp;Roysignaler </a>
+      <a href="https://twitter.com/Roysignaler"> Made &nbsp;with &nbsp;&#10084; &nbsp;by &nbsp;Roysignaler (I truly appreciate your feedback) </a>
       </footer>
     </div>
   );
